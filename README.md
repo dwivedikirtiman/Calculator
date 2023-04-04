@@ -12,9 +12,9 @@ Now, simply run the index.html file.
 
 Method No-2
 
-Simply Clone this repo and extract all files and run index.html file.
+Simply Clone this repo and extract all files in a single folder and run index.html file.
 
 Thank you !!
 Kirtiman Dwivedi.
-Connect with me on-
-dwivedikirtiman00@gmail.com or https://www.linkedin.com/in/kirtiman-dwivedi/
+
+Connect with me on- dwivedikirtiman00@gmail.com or https://www.linkedin.com/in/kirtiman-dwivedi/
