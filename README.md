@@ -25,7 +25,7 @@ This is a sleek and modern Calculator Web App developed using HTML, CSS, and Jav
 
 - Clone this repository:
 
-   ```git clone <repo-link>```
+   ```git clone https://github.com/dwivedikirtiman/Calculator.git```
 
 - Open the ```index.html``` file directly in your browser.
 
